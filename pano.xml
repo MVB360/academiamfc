@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.7" start="node44" apprev="20981" hassounds="0">
+  <panorama id="node44">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-135.459" fovmode="2">
+      <start pan="-9.28526" fov="100" projection="4" tilt="-0.607269"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63986227" latitude="-26.99659251" title="MFC" source="" tags="Pano2VR7" author="" info="" heading="-135.459" nodeid="node44" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9965925,-48.6398623,3a,75y,233.83h,90t/data=!3m4!1e1!3m2!1sCIABIhDEAXsbQPZ2C7cA4_HtKQoI!2e10" datetime="10/05/2025 00:21"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-9.21928" distance="2.92487" skinid="ht_node" description="" url="{node43}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="233.295" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63988608" latitude="-26.99660806" title="MFC" source="" tags="3MFCBALNCAMBSC" author="" info="" heading="233.295" nodeid="node43" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966081,-48.6398861,3a,75y,233.29h,90t/data=!3m4!1e1!3m2!1sCIABIhBRPDRyOSWO_kNLaaVQEAHG!2e10" datetime="2025:05:10 00:21:27"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="179.535" distance="2.92487" skinid="ht_node" description="" url="{node44}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="360.119" distance="0.829285" skinid="ht_node" description="" url="{node6}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-128.949" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63989278" latitude="-26.99661253" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.34" author="" info="" heading="-128.949" nodeid="node6" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966125,-48.6398928,3a,75y,231.05h,90t/data=!3m4!1e1!3m2!1sCIABIhBsun3t9VPCZCa1SCstINxv!2e10" datetime="2025:04:17 22:37:19"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-182.125" distance="0.829285" skinid="ht_node" description="" url="{node43}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-0.305511" distance="1.06303" skinid="ht_node" description="" url="{node7}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.902" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63990116" latitude="-26.99661850" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="20.38" author="" info="" heading="-126.902" nodeid="node7" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966185,-48.6399012,3a,75y,233.1h,90t/data=!3m4!1e1!3m2!1sCIABIhDicco20UcIWDFVHvyVIOYw!2e10" datetime="2025:04:17 22:37:41"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-178.259" distance="1.06303" skinid="ht_node" description="" url="{node6}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-0.717935" distance="2.30533" skinid="ht_node" description="" url="{node41}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-307.284" fovmode="2">
+      <start pan="176.627" fov="100" projection="4" tilt="3.14304"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63986827" latitude="-26.99665019" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.30" author="" info="" heading="-307.284" nodeid="node1" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966502,-48.6398683,3a,75y,236.09h,90t/data=!3m4!1e1!3m2!1sCIABIhCzx2XDfj9bkwAmu0m22fmn!2e10" datetime="2025:04:17 22:28:05"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-183.122" distance="2.65343" skinid="ht_node" description="" url="{node3}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.922" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63991488" latitude="-26.99668006" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.30" author="" info="" heading="-126.922" nodeid="node2" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966801,-48.6399149,3a,75y,233.08h,90t/data=!3m4!1e1!3m2!1sCIABIhAZG01uhIXlNVvRkaT0iKoW!2e10" datetime="2025:04:17 22:28:48"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-179.833" distance="3.03682" skinid="ht_node" description="" url="{node3}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.229" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63989043" latitude="-26.99666359" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.30" author="" info="" heading="-127.229" nodeid="node3" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966636,-48.6398904,3a,75y,232.77h,90t/data=!3m4!1e1!3m2!1sCIABIhADydAiogXDyxbwZOn0uHcy!2e10" datetime="2025:04:17 22:28:56"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-88.5539" distance="4.67881" skinid="ht_node" description="" url="{node41}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-183.067" distance="2.65343" skinid="ht_node" description="" url="{node1}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-0.139764" distance="3.03682" skinid="ht_node" description="" url="{node2}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="139.96" fovmode="2">
+      <start pan="86.426" fov="100" projection="4" tilt="-3.67764"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63991222" latitude="-26.99660895" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.30" author="" info="" heading="139.96" nodeid="node4" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966089,-48.6399122,3a,75y,53.53h,90t/data=!3m4!1e1!3m2!1sCIABIhD9Je9FS6uMKDq8SsiUbpRL!2e10" datetime="2025:04:17 22:29:04"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="266.964" distance="2.2059" skinid="ht_node" description="" url="{node5}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-216.29" fovmode="2">
+      <start pan="91.6766" fov="100" projection="4" tilt="-2.18193"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63993000" latitude="-26.99662089" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.30" author="" info="" heading="-216.29" nodeid="node5" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966209,-48.63993,3a,75y,52.03h,90t/data=!3m4!1e1!3m2!1sCIABIhBM_5WUvwr7XVKQ9p6M9dAs!2e10" datetime="2025:04:17 22:30:56"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-269.286" distance="2.2059" skinid="ht_node" description="" url="{node4}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-353.987" distance="1.48091" skinid="ht_node" description="" url="{node41}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="56.438" fovmode="2">
+      <start pan="-86.7719" fov="100" projection="4" tilt="-0.838674"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64018546" latitude="-26.99665674" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="5.01" author="" info="" heading="56.438" nodeid="node8" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966567,-48.6401855,3a,75y,143.21h,90t/data=!3m4!1e1!3m2!1sCIABIhBYltaAmwuqltfPxRJIPMuV!2e10" datetime="2025:04:17 22:37:49"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-94.6512" distance="1.10258" skinid="ht_node" description="" url="{node9}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-119.163" fovmode="2">
+      <start pan="-90.2298" fov="100" projection="4" tilt="-0.161054"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64018008" latitude="-26.99666542" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="5.01" author="" info="" heading="-119.163" nodeid="node9" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966654,-48.6401801,3a,75y,331.07h,90t/data=!3m4!1e1!3m2!1sCIABIhAeDxROggbGqvRMedkoFMs6!2e10" datetime="2025:04:17 22:37:57"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="4.17671" distance="3.50214" skinid="ht_node" description="" url="{node10}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-90.2522" distance="1.10258" skinid="ht_node" description="" url="{node8}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.496" fovmode="2">
+      <start pan="175.299" fov="100" projection="4" tilt="-0.622107"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64020961" latitude="-26.99668273" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="5.01" author="" info="" heading="-127.496" nodeid="node10" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966827,-48.6402096,3a,75y,57.21h,90t/data=!3m4!1e1!3m2!1sCIABIhCu5z2v255ylmJulfIiv0GX!2e10" datetime="2025:04:17 22:38:08"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-289.949" distance="5.39955" skinid="ht_node" description="" url="{node30}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-184.156" distance="3.50214" skinid="ht_node" description="" url="{node9}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-64.8435" fovmode="2">
+      <start pan="-1.84515" fov="100" projection="4" tilt="0.00861958"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64022506" latitude="-26.99668244" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="5.12" author="" info="" heading="-64.8435" nodeid="node11" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966824,-48.6402251,3a,75y,297h,90t/data=!3m4!1e1!3m2!1sCIABIhCnaktTCNv0gUtK9o-zNMbq!2e10" datetime="2025:04:17 22:38:15"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-1.86384" distance="2.12205" skinid="ht_node" description="" url="{node12}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-55.2231" fovmode="2">
+      <start pan="-172.756" fov="100" projection="4" tilt="-0.701524"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64024414" latitude="-26.99667377" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="10.72" author="" info="" heading="-55.2231" nodeid="node12" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966738,-48.6402441,3a,75y,117.53h,90t/data=!3m4!1e1!3m2!1sCIABIhAdl0ErCi9ZX22UVBOl0Gjb!2e10" datetime="2025:04:17 22:38:23"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-220.034" distance="3.1651" skinid="ht_node" description="" url="{node13}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-172.243" distance="2.12205" skinid="ht_node" description="" url="{node11}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-396.365" fovmode="2">
+      <start pan="-21.0345" fov="100" projection="4" tilt="0.595795"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64023577" latitude="-26.99670124" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="15.01" author="" info="" heading="-396.365" nodeid="node13" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967012,-48.6402358,3a,75y,344.67h,90t/data=!3m4!1e1!3m2!1sCIABIhAAFXSBeLMcs3i1fD7shIsC!2e10" datetime="2025:04:17 22:38:30"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-522.58" distance="5.2302" skinid="ht_node" description="" url="{node30}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-381.176" distance="3.1651" skinid="ht_node" description="" url="{node12}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-125.611" fovmode="2">
+      <start pan="-1.01323" fov="100" projection="4" tilt="-0.759425"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63995312" latitude="-26.99670393" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="17.80" author="" info="" heading="-125.611" nodeid="node14" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967039,-48.6399531,3a,75y,235.4h,90t/data=!3m4!1e1!3m2!1sCIABIhDaImjxzhE4XNyuiQnz0qFz!2e10" datetime="2025:04:17 22:38:36"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-0.688376" distance="4.29459" skinid="ht_node" description="" url="{node15}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="228.111" fovmode="2">
+      <start pan="172.962" fov="100" projection="4" tilt="0.252263"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63998866" latitude="-26.99672604" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="21.48" author="" info="" heading="228.111" nodeid="node15" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.996726,-48.6399887,3a,75y,55.15h,90t/data=!3m4!1e1!3m2!1sCIABIhB70rCeUSoPtKk1NEm4hzQA!2e10" datetime="2025:04:17 22:38:45"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="353.066" distance="4.58034" skinid="ht_node" description="" url="{node16}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="173.034" distance="4.29459" skinid="ht_node" description="" url="{node14}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="234.584" fovmode="2">
+      <start pan="179.414" fov="100" projection="4" tilt="0.47852"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64002655" latitude="-26.99674964" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="29.76" author="" info="" heading="234.584" nodeid="node16" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967496,-48.6400266,3a,75y,55.17h,90t/data=!3m4!1e1!3m2!1sCIABIhBsVDwrjoGvemS2BaqItyJc!2e10" datetime="2025:04:17 22:38:51"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="358.596" distance="6.53214" skinid="ht_node" description="" url="{node17}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="179.539" distance="4.58034" skinid="ht_node" description="" url="{node15}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-130.698" fovmode="2">
+      <start pan="173.685" fov="100" projection="4" tilt="-1.11434"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64008120" latitude="-26.99678250" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="22.04" author="" info="" heading="-130.698" nodeid="node17" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967825,-48.6400812,3a,75y,55.62h,90t/data=!3m4!1e1!3m2!1sCIABIhD2s_-Pk_CNo6mkhVV1NYLj!2e10" datetime="2025:04:17 22:38:58"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-105.202" distance="3.93598" skinid="ht_node" description="" url="{node34}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-186.686" distance="6.53214" skinid="ht_node" description="" url="{node16}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-214.632" fovmode="2">
+      <start pan="-6.11194" fov="117.015" projection="4" tilt="-1.08989"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64011808" latitude="-26.99680730" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="12.61" author="" info="" heading="-214.632" nodeid="node18" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9968073,-48.6401181,3a,75y,151.48h,90t/data=!3m4!1e1!3m2!1sCIABIhAWexACbaMHgQK84L6s-ZOc!2e10" datetime="2025:04:17 22:39:07"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-178.996" distance="2.16306" skinid="ht_node" description="" url="{node19}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-211.204" fovmode="2">
+      <start pan="4.04863" fov="100" projection="4" tilt="-0.459238"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64013080" latitude="-26.99679149" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="20.39" author="" info="" heading="-211.204" nodeid="node19" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967915,-48.6401308,3a,75y,144.75h,90t/data=!3m4!1e1!3m2!1sCIABIhD9OcqZWMg9Sk0CBsXG9JcM!2e10" datetime="2025:04:17 22:39:13"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-176.629" distance="2.34304" skinid="ht_node" description="" url="{node33}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-355.568" distance="2.16306" skinid="ht_node" description="" url="{node18}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="203.626" fovmode="2">
+      <start pan="-13.3499" fov="119.625" projection="4" tilt="1.51415"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64010065" latitude="-26.99667676" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="48.71" author="" info="" heading="203.626" nodeid="node20" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966768,-48.6401007,3a,75y,216.98h,90t/data=!3m4!1e1!3m2!1sCIABIhAnywgxshtz3_vHBigK98P9!2e10" datetime="2025:04:17 22:39:19"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="103.766" distance="3.87673" skinid="ht_node" description="" url="{node28}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-125.155" fovmode="2">
+      <start pan="75.4454" fov="100" projection="4" tilt="0.668646"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64007183" latitude="-26.99665792" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="48.71" author="" info="" heading="-125.155" nodeid="node21" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966579,-48.6400718,3a,75y,159.4h,90t/data=!3m4!1e1!3m2!1sCIABIhA5gxIYLL_OBRx96me68JpB!2e10" datetime="2025:04:17 22:39:27"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-285.893" distance="2.92233" skinid="ht_node" description="" url="{node28}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-184.224" distance="2.63927" skinid="ht_node" description="" url="{node22}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-121.794" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64004898" latitude="-26.99664572" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="48.71" author="" info="" heading="-121.794" nodeid="node22" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966457,-48.640049,3a,75y,238.21h,90t/data=!3m4!1e1!3m2!1sCIABIhCOSu1O8LUgx0tpjOhm6Lag!2e10" datetime="2025:04:17 22:39:33"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-0.863488" distance="2.63927" skinid="ht_node" description="" url="{node21}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-178.719" distance="2.49599" skinid="ht_node" description="" url="{node23}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-123.308" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64002787" latitude="-26.99663347" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="51.08" author="" info="" heading="-123.308" nodeid="node23" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966335,-48.6400279,3a,75y,236.69h,90t/data=!3m4!1e1!3m2!1sCIABIhA-teiz0QIZQ57jLfSKuZir!2e10" datetime="2025:04:17 22:39:39"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-0.233431" distance="2.49599" skinid="ht_node" description="" url="{node22}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-180.087" distance="2.97744" skinid="ht_node" description="" url="{node24}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-124.284" fovmode="2">
+      <start pan="-1.41558" fov="100" projection="4" tilt="-0.614204"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64000273" latitude="-26.99661880" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="51.08" author="" info="" heading="-124.284" nodeid="node24" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966188,-48.6400027,3a,75y,237.13h,90t/data=!3m4!1e1!3m2!1sCIABIhAsfD9X-62HCwGzMMc_2UvE!2e10" datetime="2025:04:17 22:39:46"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-1.06345" distance="2.97744" skinid="ht_node" description="" url="{node23}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-274.035" distance="2.49977" skinid="ht_node" description="" url="{node25}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.32" fovmode="2">
+      <start pan="-4.26495" fov="127.478" projection="4" tilt="0.218945"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63999002" latitude="-26.99663822" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="45.55" author="" info="" heading="-127.32" nodeid="node25" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966382,-48.63999,3a,75y,236.94h,90t/data=!3m4!1e1!3m2!1sCIABIhB4fithMew0g04OHy1-P5B5!2e10" datetime="2025:04:17 22:39:52"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-4.3878" distance="2.44829" skinid="ht_node" description="" url="{node26}" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-269.674" distance="3.48275" skinid="ht_node" description="" url="{node39}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-97.0708" distance="2.49977" skinid="ht_node" description="" url="{node24}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-125.634" fovmode="2">
+      <start pan="0" fov="109.319" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64001076" latitude="-26.99665019" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="53.96" author="" info="" heading="-125.634" nodeid="node26" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966502,-48.6400108,3a,75y,234.37h,90t/data=!3m4!1e1!3m2!1sCIABIhDyUgax7vz_T-dsgGWltKVA!2e10" datetime="2025:04:17 22:39:58"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-182.702" distance="2.44829" skinid="ht_node" description="" url="{node25}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="1.24669" distance="2.86996" skinid="ht_node" description="" url="{node27}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-122.013" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64003393" latitude="-26.99666568" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="19.40" author="" info="" heading="-122.013" nodeid="node27" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966657,-48.6400339,3a,75y,237.99h,90t/data=!3m4!1e1!3m2!1sCIABIhBQrBOnX0RyPuxL6e7Jyzve!2e10" datetime="2025:04:17 22:40:05"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-175.132" distance="2.86996" skinid="ht_node" description="" url="{node26}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="2.17418" distance="3.37405" skinid="ht_node" description="" url="{node28}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-120.279" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64006210" latitude="-26.99668273" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="19.40" author="" info="" heading="-120.279" nodeid="node28" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966827,-48.6400621,3a,75y,239.72h,90t/data=!3m4!1e1!3m2!1sCIABIhALOI543QtDmlEhf5hvcDUR!2e10" datetime="2025:04:17 22:40:12"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-176.092" distance="3.37405" skinid="ht_node" description="" url="{node27}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="4.3703" distance="6.89991" skinid="ht_node" description="" url="{node29}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-40.1387" distance="3.87673" skinid="ht_node" description="" url="{node20}" tilt="0"/>
+      <hotspot id="Point04" target="$fwd" title="MFC" pan="-101.017" distance="2.92233" skinid="ht_node" description="" url="{node21}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-130.013" fovmode="2">
+      <start pan="-2.83876" fov="100" projection="4" tilt="-0.187802"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64011939" latitude="-26.99671801" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="19.40" author="" info="" heading="-130.013" nodeid="node29" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.996718,-48.6401194,3a,75y,232.83h,90t/data=!3m4!1e1!3m2!1sCIABIhB0NEtAkp4aMiNSam_pp5ya!2e10" datetime="2025:04:17 22:40:18"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-185.364" distance="6.89991" skinid="ht_node" description="" url="{node28}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-2.56682" distance="6.11373" skinid="ht_node" description="" url="{node31}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-124.292" fovmode="2">
+      <start pan="-88.8249" fov="100" projection="4" tilt="-5.00715"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64019318" latitude="-26.99672903" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="19.40" author="" info="" heading="-124.292" nodeid="node30" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.996729,-48.6401932,3a,75y,324.53h,90t/data=!3m4!1e1!3m2!1sCIABIhB_0M4aGxn7oAjdTHuY39Ir!2e10" datetime="2025:04:17 22:40:55"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-259.694" distance="3.49957" skinid="ht_node" description="" url="{node31}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-70.5072" distance="5.2302" skinid="ht_node" description="" url="{node13}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-106.745" distance="5.39955" skinid="ht_node" description="" url="{node10}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-221.46" fovmode="2">
+      <start pan="-177.106" fov="100" projection="4" tilt="23.1836"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64016838" latitude="-26.99675144" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="20.45" author="" info="" heading="-221.46" nodeid="node31" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967514,-48.6401684,3a,75y,315.65h,90t/data=!3m4!1e1!3m2!1sCIABIhCVZzAPgZbtzdI2ved0z5S4!2e10" datetime="2025:04:17 22:41:01"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-274.014" distance="6.11373" skinid="ht_node" description="" url="{node29}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-176.862" distance="3.49957" skinid="ht_node" description="" url="{node30}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-357.979" distance="3.47867" skinid="ht_node" description="" url="{node33}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-300.078" fovmode="2">
+      <start pan="-178.141" fov="100" projection="4" tilt="-3.63484"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64015966" latitude="-26.99678251" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="4.07" author="" info="" heading="-300.078" nodeid="node32" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967825,-48.6401597,3a,75y,238.06h,90t/data=!3m4!1e1!3m2!1sCIABIhC9mSZxkPDsRdPoGi9Di3xi!2e10" datetime="2025:04:17 22:41:07"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-358.762" distance="1.79064" skinid="ht_node" description="" url="{node33}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-214.137" fovmode="2">
+      <start pan="-90.0384" fov="100" projection="4" tilt="-0.0321439"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64014422" latitude="-26.99677414" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="11.63" author="" info="" heading="-214.137" nodeid="node33" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967741,-48.6401442,3a,75y,235.9h,90t/data=!3m4!1e1!3m2!1sCIABIhCW5iBPIt4zXDnMmU2zM0mF!2e10" datetime="2025:04:17 22:41:14"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-359.562" distance="2.34304" skinid="ht_node" description="" url="{node19}" tilt="0"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-92.8209" distance="1.79064" skinid="ht_node" description="" url="{node32}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-274.172" distance="5.25168" skinid="ht_node" description="" url="{node34}" tilt="0"/>
+      <hotspot id="Point04" target="$fwd" title="MFC" pan="-170.656" distance="3.47867" skinid="ht_node" description="" url="{node31}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-120.499" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64009830" latitude="-26.99675055" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="28.09" author="" info="" heading="-120.499" nodeid="node34" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967506,-48.6400983,3a,75y,239.5h,90t/data=!3m4!1e1!3m2!1sCIABIhDGixI-IG0lqQrVtxzNKrVO!2e10" datetime="2025:04:17 22:41:20"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-172.445" distance="3.29034" skinid="ht_node" description="" url="{node35}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-275.003" distance="3.93598" skinid="ht_node" description="" url="{node17}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-0.533636" distance="5.25168" skinid="ht_node" description="" url="{node33}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.851" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64007215" latitude="-26.99673231" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="24.30" author="" info="" heading="-127.851" nodeid="node35" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967323,-48.6400722,3a,75y,232.15h,90t/data=!3m4!1e1!3m2!1sCIABIhBHuogT9i2lNFRCtRGDGWTw!2e10" datetime="2025:04:17 22:41:26"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-180.528" distance="3.34151" skinid="ht_node" description="" url="{node36}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="0.203412" distance="3.29034" skinid="ht_node" description="" url="{node34}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.867" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64004533" latitude="-26.99671409" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="24.30" author="" info="" heading="-126.867" nodeid="node36" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9967141,-48.6400453,3a,75y,233.13h,90t/data=!3m4!1e1!3m2!1sCIABIhC9DJpFsL2WSqgD9qv2hnR_!2e10" datetime="2025:04:17 22:41:33"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-180.128" distance="3.44082" skinid="ht_node" description="" url="{node37}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="0.455741" distance="3.34151" skinid="ht_node" description="" url="{node35}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.974" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.64001750" latitude="-26.99669558" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="24.30" author="" info="" heading="-126.974" nodeid="node37" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966956,-48.6400175,3a,75y,233.03h,90t/data=!3m4!1e1!3m2!1sCIABIhAoVqG4WUdE-sMan6C1wwkj!2e10" datetime="2025:04:17 22:41:39"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-180.127" distance="3.15593" skinid="ht_node" description="" url="{node38}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="-0.234565" distance="3.44082" skinid="ht_node" description="" url="{node36}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.347" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63999201" latitude="-26.99667856" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="24.30" author="" info="" heading="-126.347" nodeid="node38" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966786,-48.639992,3a,75y,233.65h,90t/data=!3m4!1e1!3m2!1sCIABIhB-MdRWwfTZeyd70QYSEhci!2e10" datetime="2025:04:17 22:41:45"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-179.719" distance="2.89631" skinid="ht_node" description="" url="{node39}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="0.499778" distance="3.15593" skinid="ht_node" description="" url="{node37}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-125.739" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63996855" latitude="-26.99666302" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="24.30" author="" info="" heading="-125.739" nodeid="node39" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.996663,-48.6399685,3a,75y,234.26h,90t/data=!3m4!1e1!3m2!1sCIABIhDbCcFN3xKlu2Fsayy1PL12!2e10" datetime="2025:04:17 22:41:52"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-178.401" distance="3.34219" skinid="ht_node" description="" url="{node40}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="0.888542" distance="2.89631" skinid="ht_node" description="" url="{node38}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="-88.0927" distance="3.48275" skinid="ht_node" description="" url="{node25}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.156" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63994173" latitude="-26.99664479" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="25.43" author="" info="" heading="-127.156" nodeid="node40" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966448,-48.6399417,3a,75y,232.84h,90t/data=!3m4!1e1!3m2!1sCIABIhAWctPS25l00kIOMBWAFOKJ!2e10" datetime="2025:04:17 22:41:58"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="-181.265" distance="2.6649" skinid="ht_node" description="" url="{node41}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="0.181883" distance="3.34219" skinid="ht_node" description="" url="{node39}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input leveltilesize="510" width="1632" levelbiashidpi="1.000" height="1632" overlap="1" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbias="0.400">
+      <level height="1632" preload="0" width="1632" predecode="0"/>
+      <level height="816" preload="0" width="816" predecode="0"/>
+      <level height="408" preload="1" width="408" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="232.994" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="330" pan="360" fov="140" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata customnodeid="" longitude="-48.63991994" latitude="-26.99663074" title="MFC" source="" tags="3MFCBALNCAMBSC" altitude="26.48" author="" info="" heading="232.994" nodeid="node41" copyright="" comment="" description="" streetviewlink="https://www.google.com/maps/@-26.9966307,-48.6399199,3a,75y,232.99h,90t/data=!3m4!1e1!3m2!1sCIABIhBdM-PPSExdsmkvrA_r8Ob4!2e10" datetime="2025:04:17 22:42:04"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label width="180" background="1" textcolor="0x000000" border="1" wordwrap="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="$fwd" title="MFC" pan="179.178" distance="2.30533" skinid="ht_node" description="" url="{node7}" tilt="0"/>
+      <hotspot id="Point02" target="$fwd" title="MFC" pan="358.885" distance="2.6649" skinid="ht_node" description="" url="{node40}" tilt="0"/>
+      <hotspot id="Point03" target="$fwd" title="MFC" pan="91.6691" distance="4.67881" skinid="ht_node" description="" url="{node3}" tilt="0"/>
+      <hotspot id="Point04" target="$fwd" title="MFC" pan="275.297" distance="1.48091" skinid="ht_node" description="" url="{node5}" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" type="crossdissolve" zoomspeed="2" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" title="" tags="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
